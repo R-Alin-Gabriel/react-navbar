@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-navbar.git/static/css/main.b9f9fa76.css",
+    "main.js": "/react-navbar.git/static/js/main.b2123cf0.js",
+    "static/js/787.894d8e0a.chunk.js": "/react-navbar.git/static/js/787.894d8e0a.chunk.js",
+    "index.html": "/react-navbar.git/index.html",
+    "main.b9f9fa76.css.map": "/react-navbar.git/static/css/main.b9f9fa76.css.map",
+    "main.b2123cf0.js.map": "/react-navbar.git/static/js/main.b2123cf0.js.map",
+    "787.894d8e0a.chunk.js.map": "/react-navbar.git/static/js/787.894d8e0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f9fa76.css",
+    "static/js/main.b2123cf0.js"
+  ]
+}
